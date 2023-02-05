@@ -132,6 +132,10 @@ function App() {
     }
   }, [walletAddress])
 
+  useEffect(()=>{
+    document.title = "Solana Starter dApp"
+  })
+
   // TODO: Move this into it's own functional component
   const renderConnectedContainer = () => {
     if (!gifList || gifList.length == null) {
@@ -178,7 +182,7 @@ function App() {
           
           <p className="header">🖼 GIF Portal</p>
           <p className="sub-text">
-            View your GIF collection in the metaverse ✨
+            Solana Devnet GIF collection in the metaverse ✨
           </p>
 
         </div>
