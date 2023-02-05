@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/solana-starter/static/css/main.59ead3ae.css",
-    "main.js": "/solana-starter/static/js/main.d6eaa211.js",
+    "main.js": "/solana-starter/static/js/main.7be54915.js",
     "static/js/787.199f7a08.chunk.js": "/solana-starter/static/js/787.199f7a08.chunk.js",
     "index.html": "/solana-starter/index.html",
     "main.59ead3ae.css.map": "/solana-starter/static/css/main.59ead3ae.css.map",
-    "main.d6eaa211.js.map": "/solana-starter/static/js/main.d6eaa211.js.map",
+    "main.7be54915.js.map": "/solana-starter/static/js/main.7be54915.js.map",
     "787.199f7a08.chunk.js.map": "/solana-starter/static/js/787.199f7a08.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.59ead3ae.css",
-    "static/js/main.d6eaa211.js"
+    "static/js/main.7be54915.js"
   ]
 }
